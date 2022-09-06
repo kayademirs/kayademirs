@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seda</h1>
-<h3 align="center"> Data Engineer & Data Scientist & Software Engineer</h3>
+<h3 align="center"> Data Engineer & Software Engineer</h3>
 
 - 📝 I regularly write articles on [https://kayademirs.medium.com/](https://kayademirs.medium.com/)
 
